@@ -1,0 +1,5 @@
+,0,1,2,3,4,5,6,7,8,9,10
+Turbine,A,B,C,D,E,F,G,H,I,I,J
+Signal,Nacelle Temperature,Gear Bearing Temperature,Hydraulic Oil Temperature,Generator Bearing Temperature,Gear Oil Pressure,Gear Oil Pressure,Gear Bearing Temperature,Gear Oil Temperature,Pitch Motor Temperature,Gear Oil Pressure,Gear Bearing Temperature
+CP_true,"[357, 493, 620]",[752],"[576, 879]","[496, 528, 829]","[44, 282, 664, 853]","[339, 377, 868]","[682, 868]","[689, 775, 883]","[68, 90, 346, 364, 379, 441, 886]","[693, 886]","[344, 879]"
+Figure,8,9,"[3, 5]",9,4,"[3, 5]","[3, 5]",11,11,8,11
